@@ -1,2 +1,2 @@
 # web-frontend
-Containing small projects about basics in HTML, CSS, JavaScript
+Containing small projects about basics in HTML, CSS, JavaScript.
